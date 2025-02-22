@@ -8,7 +8,7 @@ Team Members: Jay Kishan Saw, Shreya Singh
 MindMate_Chatbot – An AI-Powered Mental Health Companion 💙
 Mental well-being is a crucial aspect of overall health, yet many individuals struggle to find the right support system. MindMate_Chatbot is an innovative and interactive AI-driven mental health assistant designed to provide emotional support, personalized self-care recommendations, and well-being resources.
 
-With an aesthetically appealing and dynamic interface, MindMate_Chatbot welcomes users into a calming digital environment. The chatbot, named Sukoon, offers a seamless and engaging experience, encouraging users to explore mindfulness techniques, stress-relief strategies, and relaxation exercises. The platform is designed to make mental health support more accessible, user-friendly, and interactive.
+With an aesthetically appealing and dynamic interface, MindMate_Chatbot welcomes users into a calming digital environment. The chatbot, named mindmate, offers a seamless and engaging experience, encouraging users to explore mindfulness techniques, stress-relief strategies, and relaxation exercises. The platform is designed to make mental health support more accessible, user-friendly, and interactive.
 
 Key Features:
 ✅ Immersive 3D & Animated Homepage
